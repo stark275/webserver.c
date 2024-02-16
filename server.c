@@ -104,6 +104,7 @@ int main() {
 
         // pthread_join(thread, NULL);
     }
+    
     close(s);
     return 1;
 }
